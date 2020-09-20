@@ -2,9 +2,7 @@ package structural.decorator;
 
 public abstract class AddOnDecorator implements Beverage {
 
-	private Beverage beverage;
-	
-	public AddOnDecorator() {}
+	protected Beverage beverage;
 	
 	public AddOnDecorator(Beverage beverage) {
 		this.beverage = beverage;

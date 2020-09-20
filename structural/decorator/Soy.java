@@ -2,16 +2,14 @@ package structural.decorator;
 
 public class Soy extends AddOnDecorator {
 	
-	public Soy() {}
-	
 	public Soy(Beverage beverage) {
 		super(beverage);
 	}
 
 	@Override
 	public double cost() {
-		if(getBeverage() != null)
-			return 0 + getBeverage().cost();
+		if(beverage != null)
+			return 0 + beverage.cost();
 		else return 0;
 	}
 

@@ -6,12 +6,10 @@ public class Caramel extends AddOnDecorator {
 		super(beverage);
 	}
 	
-	public Caramel() {}
-
 	@Override
 	public double cost() {
-		if(getBeverage() != null)
-			return 0 + getBeverage().cost();
+		if(beverage != null)
+			return 0 + beverage.cost();
 		else return 0;
 	}
 
