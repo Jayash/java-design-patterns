@@ -8,6 +8,7 @@ Catalog of popular object-oriented design patterns in Java
  - Builder
  - Factory Method
  - Abstract Factory
+ - Prototype
  
 # Structural
 
@@ -15,6 +16,7 @@ Catalog of popular object-oriented design patterns in Java
  - Composite
  - Decorator
  - Proxy
+ - Adapter
  
 # Behavioral
 
