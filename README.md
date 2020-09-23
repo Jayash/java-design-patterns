@@ -2,7 +2,7 @@
 
 Catalog of popular object-oriented design patterns in Java
 
-# Creational
+## Creational
 
  - Singleton
  - Builder
@@ -10,7 +10,7 @@ Catalog of popular object-oriented design patterns in Java
  - Abstract Factory
  - Prototype
  
-# Structural
+## Structural
 
  - Bridge
  - Composite
@@ -18,7 +18,7 @@ Catalog of popular object-oriented design patterns in Java
  - Proxy
  - Adapter
  
-# Behavioral
+## Behavioral
 
  - Iterator
  - Observer
