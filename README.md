@@ -24,7 +24,7 @@ Structural design patterns are design patterns that ease the design by identifyi
  
 ## Behavioral
 
-Behavioral pattern explains how objects interact. It describes how different objects and classes send messages to each other to make things happen and how the steps of a task are divided among different objects. Where Creational patterns mostly describe a moment of time (the instant of creation), and Structural patterns describe a more or less static structure, Behavioral patterns describe a process or a flow.
+Behavioral pattern explains how objects interact. It describes how different objects and classes send messages to each other to make things happen and how the steps of a task are divided among different objects.
 
  - [Iterator](https://github.com/Jayash/java-design-patterns/tree/master/behavioral/iterator)
  - [Observer](https://github.com/Jayash/java-design-patterns/tree/master/behavioral/observer)
