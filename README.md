@@ -31,12 +31,4 @@ Behavioral pattern explains how objects interact. It describes how different obj
  - [State](https://github.com/Jayash/java-design-patterns/tree/master/behavioral/state)
  - [Strategy](https://github.com/Jayash/java-design-patterns/tree/master/behavioral/strategy)
  - [Template Method](https://github.com/Jayash/java-design-patterns/tree/master/behavioral/template)
- 
- ## The SOLID principles of Object Oriented Design include these five principles
- 
- - S – Single Responsibility Principle. A Class should have a single responsibility.
- - O – Open/Closed Principle. Software entities should be open for extension but closed for modification.
- - L – Liskov Substitution Principle. Objects in a program should be replaceable by subclasses of same type without any adverse impact.
- - I – Interface Segregation Principle. Multiple client specific interfaces are preferable over single generic interface.
- - D – Dependency Inversion Principle. Program should depend on abstract entities. It should not depend on concrete implementation of an interface.
 
